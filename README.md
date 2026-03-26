@@ -1,6 +1,6 @@
 <div align="center">
 
-# My Mod Title
-Some description here
+# Cytrixs Time Changer!
+This simple mod lets you change the time of day and weather to your own liking!
 
 </div>
