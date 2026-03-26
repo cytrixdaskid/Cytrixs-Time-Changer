@@ -16,6 +16,10 @@ I hope you enjoy!
 </div>
 <div align="center">
 Credits: @realcytrix/@cytrixgt, @femboy yeezy >.< ᵏⁱᵗᵗⁱᵉˢ
+</div>
+<div align="center">
 Discord: https://discord.gg/PDpTdjq7sV
+</div>
+<div align="center">
 Youtube: https://youtube.com/@realcytrix
 </div>
