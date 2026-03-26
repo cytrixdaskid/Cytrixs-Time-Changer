@@ -1,4 +1,4 @@
-<img width="903" height="650" alt="image" src="https://github.com/user-attachments/assets/197b6aac-ffac-42da-be7a-eb419cd6b369" /><div align="center">
+><div align="center">
 
 # ⏰ Cytrixs Time Changer! ⏰
 This simple mod lets you change the time of day and weather to your own liking!
