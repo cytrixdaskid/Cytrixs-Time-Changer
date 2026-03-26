@@ -12,7 +12,7 @@ This simple mod lets you change the time of day and weather to your own liking!
   <a href="https://github.com/sevvy-wevvy/Several-Bees/releases/latest">
     <img src="https://img.shields.io/github/v/release/sevvy-wevvy/Several-Bees?label=Version&style=for-the-badge&color=red" alt="Version">
   </a>
-  <a href="https://sevvy-wevvy.com/discord">
+  <a href="https://discord.gg/gtagmods">
     <img src="https://img.shields.io/discord/1398944180079689728?label=Discord&style=for-the-badge" alt="Discord">
   </a>
 </p>
